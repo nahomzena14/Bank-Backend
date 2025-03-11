@@ -21,8 +21,8 @@ Tools: Spring Initializr, Maven, JUnit
 API Endpoints
 
 Authentication
-POST	/auth/register - Register a new user	❌ No
-POST	/auth/login	- Authenticate and get JWT token	❌ No
+POST	/auth/register - Register a new user
+POST	/auth/login	- Authenticate and get JWT token
 
 Accounts
 GET	/accounts	- Get user accounts	✅ Yes (JWT)
